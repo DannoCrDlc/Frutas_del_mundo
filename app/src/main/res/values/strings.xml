@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Splash con GIT</string>
+    <string name="top_5_frutas_del_mundo">Top 5 Frutas mas saludables del mundo</string>
+    <string name="detalles">Detalles</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">Nombre</string>
+
+    <string name="pomelo">Toronja</string>
+    <string name="piña">Piña</string>
+    <string name="aguacate">Aguacate</string>
+    <string name="arándanos">Arándanos</string>
+    <string name="manzanas">Manzanas</string>
+
+    <string name="detPomelo"> La toronja es una de las frutas cítricas más saludables.</string>
+    <string name="detPiña">Entre las frutas tropicales, la piña es una superestrella de la nutrición.</string>
+    <string name="detAguacate">El aguacate es diferente de la mayoría de las otras frutas.</string>
+    <string name="detArándanos">Los arándanos tienen poderosos beneficios para la salud.</string>
+    <string name="detManzanas">Las manzanas están entre las frutas más populares y también son increíblemente nutritivas.</string>
+</resources>

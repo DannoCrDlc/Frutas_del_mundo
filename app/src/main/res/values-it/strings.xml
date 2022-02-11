@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splash con GIT</string>
+    <string name="top_5_frutas_del_mundo">I 5 frutti più sani del mondo</string>
+    <string name="detalles">Detalles</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">Nombre</string>
+
+    <string name="pomelo">Pompelmo</string>
+    <string name="piña">Ananas</string>
+    <string name="aguacate">Avocado</string>
+    <string name="arándanos">Mirtilli</string>
+    <string name="manzanas">Mele</string>
+
+    <string name="detPomelo">Il pompelmo è uno degli agrumi più sani.</string>
+    <string name="detPiña">Tra i frutti tropicali, l\'ananas è una superstar nutrizionale.</string>
+    <string name="detAguacate">L\'avocado è diverso dalla maggior parte degli altri frutti.</string>
+    <string name="detArándanos">I mirtilli hanno potenti benefici per la salute.</string>
+    <string name="detManzanas">Le mele sono tra i frutti più popolari e sono anche incredibilmente nutrienti.</string>
+</resources>

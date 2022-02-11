@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splash con GIT</string>
+    <string name="top_5_frutas_del_mundo">The 5 healthiest fruits in the world</string>
+    <string name="detalles">Detalles</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">Nombre</string>
+
+    <string name="pomelo">Grapefruit</string>
+    <string name="piña">Pineapple</string>
+    <string name="aguacate">Avocado</string>
+    <string name="arándanos">Blueberries</string>
+    <string name="manzanas">Apples</string>
+
+    <string name="detPomelo">Grapefruit is one of the healthiest citrus fruits.</string>
+    <string name="detPiña">Among tropical fruits, the pineapple is a nutritional superstar.</string>
+    <string name="detAguacate">Avocado is different from most other fruits.</string>
+    <string name="detArándanos">Blueberries have powerful health benefits.</string>
+    <string name="detManzanas">Apples are among the most popular fruits and they are also incredibly nutritious.</string>
+</resources>
